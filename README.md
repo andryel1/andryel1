@@ -10,7 +10,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** e me especializan
 
 🎯 Trabalhando para me tornar referência na área de tecnologia.  
 💼 Interesses: Desenvolvimento de sistemas, segurança, testes e boas práticas de código.  
-📚 Estudando: Cibersegurança, Qualidade de Software e Estrutura de Sistemas.
+📚 Estudando: Qualidade de Software e Estrutura de Sistemas.
 
 📧 E-mail: andryelbonfim01@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/andryel-bonfim-132079212)

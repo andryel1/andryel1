@@ -42,15 +42,6 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** e me especializan
 
 ---
 
-## 📌 Projetos em Destaque
-
-🔹 **[ReposInsight (2024)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t6-reposinsight)**  
-Sistema web para análise de repositórios GitHub, utilizando C# e ASP.NET.
-
-🔹 **[Web Aeroplano (2023)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-aeroplano)**  
-Projeto front-end construído com HTML, CSS e JavaScript.
-
----
 
 <p align="center">
   <i>Obrigado pela visita! Sinta-se à vontade para explorar meus repositórios e conectar comigo nas redes sociais.</i> 🚀
